@@ -18,3 +18,17 @@
     margin-top: 20px;
   }
   
+  .container {
+    max-width: 400px;
+    margin: 50px auto;
+    text-align: center;
+  }
+  
+  #weatherInfo {
+    margin-top: 20px;
+  }
+  
+  #loadingIndicator {
+    margin-top: 20px;
+  }
+  
